@@ -1,2 +1,2 @@
 # Hello Cloud
-## welcome to GCP training
+## welcome to training
